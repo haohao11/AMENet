@@ -4,7 +4,10 @@ Trajectory prediction is critical for applications of planning safe future movem
 
 ![AMENET](https://github.com/haohao11/AMENET/blob/master/model_framework.png)
 
-Please cite:
+The trajectory datasets were downloaded from 
+http://trajnet.stanford.edu/data.php?n=1
+
+If you find this repository useful, please cite:
 
 ```html
 @article{cheng2020amenet,
