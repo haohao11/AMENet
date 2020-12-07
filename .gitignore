@@ -1,0 +1,4 @@
+processed_data/train/*
+processed_data/challenge/*
+models/*.hdf5
+prediction/*.txt

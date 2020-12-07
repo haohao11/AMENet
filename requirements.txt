@@ -1,0 +1,16 @@
+If the yml does not work, manually installing the following packages should be working as well.
+The command is given via the link for each package.
+
+conda installed:
+keras-gpu==2.3.1 https://anaconda.org/anaconda/keras-gpu
+tenforfolow==2.1.0
+numpy https://anaconda.org/anaconda/numpy
+matplotlib https://anaconda.org/anaconda/matplotlib
+pandas https://anaconda.org/anaconda/pandas
+python >=3.6 https://anaconda.org/anaconda/python
+scikit-learn https://anaconda.org/anaconda/scikit-learn
+scipy https://anaconda.org/anaconda/scipy
+seaborn https://anaconda.org/anaconda/seaborn
+
+pip installed
+keras-multi-head https://pypi.org/project/keras-multi-head/
